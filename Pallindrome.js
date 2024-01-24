@@ -18,5 +18,5 @@ const isPalindrome = (text) => {
   }
 };
 
-console.log(isPalindrome(`("A man, a plan, a canal: Panama")`));
+console.log(isPalindrome(`level`));
 // The expected result would be "true".

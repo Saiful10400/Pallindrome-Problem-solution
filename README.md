@@ -1,1 +1,1 @@
-hellow
+# This solution helps to validate is a text is palindrome or not.
