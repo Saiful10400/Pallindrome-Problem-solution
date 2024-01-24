@@ -23,4 +23,4 @@ const isPalindrome=(text)=>{
 
 
 console.log(isPalindrome(`Madam, in Eden, I'm Adam: "Madam, in Eden, I'm Adam"`))
-// expected result would be "true"
+// The expected result would be "true".
